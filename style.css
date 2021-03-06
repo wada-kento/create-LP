@@ -75,8 +75,8 @@ body {
 }
 
 .emphasis {
-    background: linear-gradient(transparent 70%, #0066CC 70%);
-    display: inline-block;
+    background: linear-gradient(-271deg, #e66465d1, #0066cce0);
+    display: block;
     margin-bottom: 0px;
 }
 
@@ -84,7 +84,6 @@ body {
     padding: .5em .75em;
     background-color: #0066CC;
     color: #FFFFFF;
-    border-radius: 6px;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
