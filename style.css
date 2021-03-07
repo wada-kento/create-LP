@@ -213,6 +213,10 @@ body {
     overflow: hidden;
 }
 
+.contents-head {
+    font-size: 30px;
+}
+
 .left {
     float: left;
     height: 400px;
