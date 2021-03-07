@@ -20,6 +20,7 @@ body {
 .header-nav {
     list-style: none;
     float: right;
+    color: #FFFFFF;
 }
 
 .header-nav-item {
@@ -89,6 +90,10 @@ body {
     margin-bottom: 0px;
 }
 
+#text-line {
+    margin-bottom: 50px;
+}
+
 
 /* コンテンツ */
 
@@ -127,7 +132,7 @@ body {
 #main_nav {
     width: 67.5%;
     min-width: 687px;
-    height: 396px;
+    height: 310px;
     overflow: hidden;
     margin: 0 auto;
     padding: 88px 0;
