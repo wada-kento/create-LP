@@ -30,6 +30,26 @@ body {
     font-size: 15px;
 }
 
+.content-link {
+    transition: color 0.3s;
+    color: #e66465;
+    text-decoration: none;
+}
+
+.content-link:hover {
+    color: #6eb0f9;
+}
+
+.header-link {
+    transition: color 0.3s;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.header-link:hover {
+    color: #ff7043;
+}
+
 
 /* トップ */
 
@@ -90,16 +110,17 @@ body {
     margin-bottom: 0px;
 }
 
-#text-line {
-    margin-bottom: 50px;
-}
-
 
 /* コンテンツ */
 
 .content {
     text-align: center;
     padding: 20px 0 100px;
+}
+
+.content-main {
+    background-color: #7777771a;
+    padding-top: 20px;
 }
 
 .content-title {
@@ -135,7 +156,7 @@ body {
     height: 310px;
     overflow: hidden;
     margin: 0 auto;
-    padding: 88px 0;
+    padding: 50px 0;
 }
 
 #main_nav li {
